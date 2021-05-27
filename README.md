@@ -34,4 +34,6 @@
 
 ![hds536jhmk's GitHub Stats](https://github-readme-stats.vercel.app/api?username=hds536jhmk&custom_title=%F0%9D%93%B1%F0%9D%93%AD%F0%9D%93%BC%27s%20GitHub%20Stats&theme=dark&show_icons=true&hide=stars&count_private=true)
 
+![hds536jhmk's Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=hds536jhmk&custom_title=%F0%9D%93%B1%F0%9D%93%AD%F0%9D%93%BC%27s%20Top%20Languages&theme=dark&langs_count=100&layout=compact)
+
 </details>
